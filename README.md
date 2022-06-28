@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreedharrv
 - 👀 I’m interested in Cloud and DevOps
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently interested in cloud and DevOps
 - 📫 How to reach me shreedharrv0987765@gmail.com
 
 <!---
